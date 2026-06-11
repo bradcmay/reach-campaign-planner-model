@@ -1,7 +1,7 @@
 {
   "_meta": {
     "source": "live re-fit from scrubbed mirrors",
-    "version": "refit-2026-06-11-rw12-P50",
+    "version": "refit-2026-06-11-rw12-P50+cal-2026-06-11",
     "projection_year": 2025,
     "accuracy_floor_median_pct": {
       "cost": 0.37,
@@ -1182,6 +1182,30 @@
       "n": 14,
       "confidence": "low",
       "_note": "Flat rate (data too thin/noisy to tier-scale). Treat as approximate."
+    }
+  },
+  "cost_calibration": {
+    "_note": "Read-time business calibrations validated against 2023-2026 deal actuals (2026-06-11). Applied on read by the cost engine and the planner JS; cost_rate_card stays RAW fitted so weekly refits never compound. See the Reach modeling reconciliation report.",
+    "version": "cal-2026-06-11",
+    "tier_factor": {
+      "Low Macro": 0.95,
+      "VIP": 1.25
+    },
+    "tier_deliverable_factor": {
+      "Micro": {
+        "TikTok": 0.42
+      }
+    },
+    "split_rebalance": {
+      "Mega": 0.13,
+      "High Macro": 0.13
+    },
+    "syndication_flat": {
+      "Micro": 2000
+    },
+    "segment_cost_index": {
+      "It Girl": 0.75,
+      "Food Review": 0.6
     }
   }
 }
