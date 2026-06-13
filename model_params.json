@@ -1,7 +1,7 @@
 {
   "_meta": {
     "source": "live re-fit from scrubbed mirrors",
-    "version": "refit-2026-06-12-rw12-P50+cal-2026-06-11+viphold",
+    "version": "refit-2026-06-13-rw12-P50",
     "projection_year": 2025,
     "accuracy_floor_median_pct": {
       "cost": 0.37,
@@ -11,9 +11,9 @@
     },
     "montecarlo_log_sigma": {
       "cost": 0.45,
-      "reach": 1.188,
-      "views": 1.169,
-      "engagement": 1.272
+      "reach": 1.187,
+      "views": 1.173,
+      "engagement": 1.27
     },
     "rules": [
       "IG Story impression = a view",
@@ -23,24 +23,24 @@
     ],
     "montecarlo_log_sigma_by_deliverable": {
       "IG Reel": {
-        "reach": 1.092,
-        "views": 0.972,
-        "engagement": 1.107
+        "reach": 1.086,
+        "views": 0.976,
+        "engagement": 1.116
       },
       "IG Story Set": {
-        "reach": 1.15,
-        "views": 1.076,
-        "engagement": 1.226
+        "reach": 1.149,
+        "views": 1.08,
+        "engagement": 1.219
       },
       "TikTok": {
-        "reach": 1.438,
-        "views": 1.46,
-        "engagement": 1.426
+        "reach": 1.435,
+        "views": 1.452,
+        "engagement": 1.427
       },
       "YT Short": {
-        "reach": 1.188,
-        "views": 1.929,
-        "engagement": 2.016
+        "reach": 1.187,
+        "views": 1.911,
+        "engagement": 1.921
       },
       "IG Video": {
         "reach": 0.958,
@@ -48,9 +48,9 @@
         "engagement": 1.161
       },
       "YT Video": {
-        "reach": 1.188,
-        "views": 1.169,
-        "engagement": 1.272
+        "reach": 1.187,
+        "views": 1.173,
+        "engagement": 1.27
       }
     }
   },
@@ -112,11 +112,11 @@
       "n_deals": 18,
       "rep_followers": 6361,
       "deliverable_rate": {
-        "IG Reel": 1742.1,
-        "IG Story Set": 1428.9,
-        "TikTok": 1309.5,
-        "YT Short": 1359.4,
-        "Creator Ad": 1442,
+        "IG Reel": 1794.4,
+        "IG Story Set": 1471.8,
+        "TikTok": 1348.8,
+        "YT Short": 1400.2,
+        "Creator Ad": 1444,
         "Brand Asset": 4000
       },
       "confidence": "Low (thin)"
@@ -125,10 +125,10 @@
       "n_deals": 277,
       "rep_followers": 54800,
       "deliverable_rate": {
-        "IG Reel": 3500.7,
-        "IG Story Set": 2870.6,
-        "TikTok": 2631.6,
-        "YT Short": 2731.4,
+        "IG Reel": 3724.7,
+        "IG Story Set": 3054.3,
+        "TikTok": 2800.0,
+        "YT Short": 2906.2,
         "Creator Ad": 2500,
         "Brand Asset": 4000
       },
@@ -138,10 +138,10 @@
       "n_deals": 545,
       "rep_followers": 228000,
       "deliverable_rate": {
-        "IG Reel": 8458.5,
-        "IG Story Set": 6937.4,
-        "TikTok": 6358.4,
-        "YT Short": 6599.6,
+        "IG Reel": 8695.3,
+        "IG Story Set": 7131.6,
+        "TikTok": 6536.4,
+        "YT Short": 6784.4,
         "Creator Ad": 7000,
         "Brand Asset": 4000
       },
@@ -151,11 +151,11 @@
       "n_deals": 159,
       "rep_followers": 618900,
       "deliverable_rate": {
-        "IG Reel": 14640.9,
-        "IG Story Set": 12007.2,
-        "TikTok": 11006.1,
-        "YT Short": 11424.0,
-        "Creator Ad": 12123,
+        "IG Reel": 13967.4,
+        "IG Story Set": 11454.9,
+        "TikTok": 10499.8,
+        "YT Short": 10898.5,
+        "Creator Ad": 11244,
         "Brand Asset": 4000
       },
       "confidence": "Good"
@@ -164,11 +164,11 @@
       "n_deals": 40,
       "rep_followers": 851450,
       "deliverable_rate": {
-        "IG Reel": 15202.1,
-        "IG Story Set": 12467.7,
-        "TikTok": 11427.7,
-        "YT Short": 11861.4,
-        "Creator Ad": 12587,
+        "IG Reel": 15399.7,
+        "IG Story Set": 12629.8,
+        "TikTok": 11576.3,
+        "YT Short": 12015.6,
+        "Creator Ad": 12397,
         "Brand Asset": 4000
       },
       "confidence": "Low (thin)"
@@ -177,11 +177,11 @@
       "n_deals": 213,
       "rep_followers": 1750000,
       "deliverable_rate": {
-        "IG Reel": 22506.9,
-        "IG Story Set": 18457.8,
-        "TikTok": 16918.6,
-        "YT Short": 17560.5,
-        "Creator Ad": 18636,
+        "IG Reel": 23249.6,
+        "IG Story Set": 19066.9,
+        "TikTok": 17476.9,
+        "YT Short": 18140.0,
+        "Creator Ad": 18716,
         "Brand Asset": 4000
       },
       "confidence": "Good"
@@ -190,11 +190,11 @@
       "n_deals": 26,
       "rep_followers": 7600000,
       "deliverable_rate": {
-        "IG Reel": 26406.4,
-        "IG Story Set": 21656.4,
-        "TikTok": 19850.1,
-        "YT Short": 20603.3,
-        "Creator Ad": 22393,
+        "IG Reel": 32876.0,
+        "IG Story Set": 26962.2,
+        "TikTok": 24713.4,
+        "YT Short": 25651.1,
+        "Creator Ad": 26465,
         "Brand Asset": 4000
       },
       "confidence": "Low (thin)"
@@ -272,25 +272,25 @@
     {
       "tier": "Nano",
       "deliverable": "IG Reel",
-      "reach": 1279.0,
-      "views": 2456.0,
+      "reach": 1390.0,
+      "views": 2668.0,
       "eng": 97.0,
-      "reach_pctfol": 0.26407129455909945,
-      "views_pctfol": 0.4466350123864575,
-      "eng_pctfol": 0.01828499369482976,
-      "n": 50,
+      "reach_pctfol": 0.27704102776626605,
+      "views_pctfol": 0.5052391799544419,
+      "eng_pctfol": 0.019188317201562236,
+      "n": 54,
       "confidence": "moderate"
     },
     {
       "tier": "Nano",
       "deliverable": "IG Story Set",
-      "reach": 338.0,
-      "views": 356.0,
-      "eng": 7.0,
-      "reach_pctfol": 0.08032861706983113,
-      "views_pctfol": 0.08685581933989578,
-      "eng_pctfol": 0.0015616866215512754,
-      "n": 135,
+      "reach": 352.0,
+      "views": 375.0,
+      "eng": 8.0,
+      "reach_pctfol": 0.08297078931013052,
+      "views_pctfol": 0.09556517843810662,
+      "eng_pctfol": 0.0018331805682859762,
+      "n": 149,
       "confidence": "good"
     },
     {
@@ -308,25 +308,25 @@
     {
       "tier": "Nano",
       "deliverable": "TikTok",
-      "reach": 300.0,
-      "views": 410.0,
-      "eng": 24.0,
-      "reach_pctfol": 0.2246732026143791,
-      "views_pctfol": 0.20570866141732283,
-      "eng_pctfol": 0.008663930688554491,
-      "n": 36,
+      "reach": 306.0,
+      "views": 434.0,
+      "eng": 27.0,
+      "reach_pctfol": 0.21415823914336704,
+      "views_pctfol": 0.2289213377296279,
+      "eng_pctfol": 0.010570824524312896,
+      "n": 40,
       "confidence": "moderate"
     },
     {
       "tier": "Nano",
       "deliverable": "YT Short",
       "reach": 0.0,
-      "views": 888.0,
-      "eng": 19.0,
+      "views": 689.0,
+      "eng": 17.0,
       "reach_pctfol": 0.0,
-      "views_pctfol": 0.35777777777777775,
+      "views_pctfol": 0.3102409638554217,
       "eng_pctfol": 0.008695652173913044,
-      "n": 30,
+      "n": 37,
       "confidence": "moderate"
     },
     {
@@ -344,13 +344,13 @@
     {
       "tier": "Micro",
       "deliverable": "IG Reel",
-      "reach": 6968.0,
-      "views": 10916.0,
-      "eng": 272.0,
-      "reach_pctfol": 0.14795454545454545,
-      "views_pctfol": 0.2507936507936508,
-      "eng_pctfol": 0.006069651741293532,
-      "n": 330,
+      "reach": 6705.0,
+      "views": 10447.0,
+      "eng": 264.0,
+      "reach_pctfol": 0.1478023850085179,
+      "views_pctfol": 0.24446015424164524,
+      "eng_pctfol": 0.006020942408376963,
+      "n": 337,
       "confidence": "good"
     },
     {
@@ -368,13 +368,13 @@
     {
       "tier": "Micro",
       "deliverable": "IG Story Set",
-      "reach": 1292.0,
-      "views": 1406.0,
+      "reach": 1306.0,
+      "views": 1418.0,
       "eng": 11.0,
-      "reach_pctfol": 0.02655902004454343,
-      "views_pctfol": 0.02832116788321168,
-      "eng_pctfol": 0.00024952015355086374,
-      "n": 934,
+      "reach_pctfol": 0.02648899188876014,
+      "views_pctfol": 0.028635235732009927,
+      "eng_pctfol": 0.00024937655860349125,
+      "n": 952,
       "confidence": "good"
     },
     {
@@ -392,13 +392,13 @@
     {
       "tier": "Micro",
       "deliverable": "TikTok",
-      "reach": 2721.0,
-      "views": 2916.0,
+      "reach": 2761.0,
+      "views": 3107.0,
       "eng": 108.0,
-      "reach_pctfol": 0.07606060606060606,
-      "views_pctfol": 0.08036496350364963,
-      "eng_pctfol": 0.003381294964028777,
-      "n": 226,
+      "reach_pctfol": 0.07362416107382551,
+      "views_pctfol": 0.07542579075425791,
+      "eng_pctfol": 0.0033613445378151263,
+      "n": 234,
       "confidence": "good"
     },
     {
@@ -406,11 +406,11 @@
       "deliverable": "YT Short",
       "reach": 0.0,
       "views": 2600.0,
-      "eng": 85.0,
+      "eng": 317.0,
       "reach_pctfol": 0.0,
-      "views_pctfol": 0.07246376811594203,
-      "eng_pctfol": 0.006747967479674797,
-      "n": 40,
+      "views_pctfol": 0.08482587064676617,
+      "eng_pctfol": 0.012014134275618375,
+      "n": 51,
       "confidence": "moderate"
     },
     {
@@ -440,13 +440,13 @@
     {
       "tier": "Mid Tier",
       "deliverable": "IG Reel",
-      "reach": 29522.0,
-      "views": 42737.0,
-      "eng": 1096.0,
-      "reach_pctfol": 0.12092348284960422,
-      "views_pctfol": 0.19116394968667696,
-      "eng_pctfol": 0.0048832116788321165,
-      "n": 599,
+      "reach": 29295.0,
+      "views": 42573.0,
+      "eng": 1085.0,
+      "reach_pctfol": 0.12103389830508475,
+      "views_pctfol": 0.19150943396226416,
+      "eng_pctfol": 0.004791304347826087,
+      "n": 608,
       "confidence": "good"
     },
     {
@@ -464,13 +464,13 @@
     {
       "tier": "Mid Tier",
       "deliverable": "IG Story Set",
-      "reach": 5866.0,
-      "views": 6104.0,
+      "reach": 5903.0,
+      "views": 6143.0,
       "eng": 34.0,
-      "reach_pctfol": 0.02520096852300242,
-      "views_pctfol": 0.026318501170960188,
-      "eng_pctfol": 0.00015962441314553992,
-      "n": 1637,
+      "reach_pctfol": 0.02574384236453202,
+      "views_pctfol": 0.026787878787878788,
+      "eng_pctfol": 0.00016095890410958903,
+      "n": 1673,
       "confidence": "good"
     },
     {
@@ -489,12 +489,12 @@
       "tier": "Mid Tier",
       "deliverable": "TikTok",
       "reach": 10272.0,
-      "views": 12700.0,
-      "eng": 444.0,
-      "reach_pctfol": 0.03998974621891822,
-      "views_pctfol": 0.05487437185929648,
-      "eng_pctfol": 0.0019230769230769232,
-      "n": 461,
+      "views": 13000.0,
+      "eng": 445.0,
+      "reach_pctfol": 0.04004544163589889,
+      "views_pctfol": 0.05554199569274946,
+      "eng_pctfol": 0.0019458333333333333,
+      "n": 470,
       "confidence": "good"
     },
     {
@@ -506,7 +506,7 @@
       "reach_pctfol": 0.0,
       "views_pctfol": 0.06138207547169811,
       "eng_pctfol": 0.0035390243902439023,
-      "n": 42,
+      "n": 44,
       "confidence": "moderate"
     },
     {
@@ -524,13 +524,13 @@
     {
       "tier": "Low Macro",
       "deliverable": "IG Reel",
-      "reach": 82836.0,
-      "views": 124807.0,
-      "eng": 4364.0,
-      "reach_pctfol": 0.1298728943338438,
-      "views_pctfol": 0.19149389179755671,
-      "eng_pctfol": 0.006550420168067227,
-      "n": 161,
+      "reach": 83463.0,
+      "views": 133075.0,
+      "eng": 4594.0,
+      "reach_pctfol": 0.13428472222222224,
+      "views_pctfol": 0.20100502512562815,
+      "eng_pctfol": 0.007388888888888889,
+      "n": 165,
       "confidence": "good"
     },
     {
@@ -548,13 +548,13 @@
     {
       "tier": "Low Macro",
       "deliverable": "IG Story Set",
-      "reach": 10227.0,
-      "views": 10468.0,
-      "eng": 71.0,
-      "reach_pctfol": 0.016588926174496643,
-      "views_pctfol": 0.016991004497751126,
-      "eng_pctfol": 0.0001320754716981132,
-      "n": 527,
+      "reach": 10614.0,
+      "views": 10801.0,
+      "eng": 72.0,
+      "reach_pctfol": 0.0170536231884058,
+      "views_pctfol": 0.017197101449275363,
+      "eng_pctfol": 0.00013740458015267177,
+      "n": 533,
       "confidence": "good"
     },
     {
@@ -598,7 +598,7 @@
       "deliverable": "YT Video",
       "reach": 0.0,
       "views": 37862.0,
-      "eng": 2709.0,
+      "eng": 2997.0,
       "reach_pctfol": 0.0,
       "views_pctfol": 0.0,
       "eng_pctfol": 0.0,
@@ -608,61 +608,61 @@
     {
       "tier": "High Macro",
       "deliverable": "IG Reel",
-      "reach": 74337.0,
-      "views": 100599.0,
-      "eng": 4124.0,
-      "reach_pctfol": 0.08786879432624113,
-      "views_pctfol": 0.11508238276299113,
-      "eng_pctfol": 0.004809692671394799,
-      "n": 54,
+      "reach": 85053.0,
+      "views": 102640.0,
+      "eng": 4357.0,
+      "reach_pctfol": 0.10475292740046839,
+      "views_pctfol": 0.12132387706855792,
+      "eng_pctfol": 0.004987755102040817,
+      "n": 59,
       "confidence": "moderate"
     },
     {
       "tier": "High Macro",
       "deliverable": "IG Story Set",
-      "reach": 16094.0,
+      "reach": 15695.0,
       "views": 17120.0,
       "eng": 107.0,
       "reach_pctfol": 0.01959496855345912,
-      "views_pctfol": 0.020687660668380462,
+      "views_pctfol": 0.02012853470437018,
       "eng_pctfol": 0.0001286549707602339,
-      "n": 113,
+      "n": 125,
       "confidence": "good"
     },
     {
       "tier": "High Macro",
       "deliverable": "TikTok",
       "reach": 50800.0,
-      "views": 74600.0,
-      "eng": 2794.0,
+      "views": 77000.0,
+      "eng": 2840.0,
       "reach_pctfol": 0.053060371840401084,
-      "views_pctfol": 0.07981170429014657,
-      "eng_pctfol": 0.00300682261208577,
-      "n": 58,
-      "confidence": "moderate"
+      "views_pctfol": 0.08503847711624139,
+      "eng_pctfol": 0.0032383124287343216,
+      "n": 61,
+      "confidence": "good"
     },
     {
       "tier": "High Macro",
       "deliverable": "YT Short",
       "reach": 0.0,
       "views": 312200.0,
-      "eng": 6622.0,
+      "eng": 6017.0,
       "reach_pctfol": 0.0,
       "views_pctfol": 0.34307692307692306,
-      "eng_pctfol": 0.006847983453981386,
-      "n": 19,
-      "confidence": "low"
+      "eng_pctfol": 0.00752125,
+      "n": 22,
+      "confidence": "moderate"
     },
     {
       "tier": "Mega",
       "deliverable": "IG Reel",
-      "reach": 150322.0,
-      "views": 221350.0,
-      "eng": 5354.0,
-      "reach_pctfol": 0.103499375,
-      "views_pctfol": 0.158,
-      "eng_pctfol": 0.0036340909090909093,
-      "n": 157,
+      "reach": 150826.0,
+      "views": 223225.0,
+      "eng": 5767.0,
+      "reach_pctfol": 0.10773285714285714,
+      "views_pctfol": 0.16063142857142856,
+      "eng_pctfol": 0.003714972440067187,
+      "n": 164,
       "confidence": "good"
     },
     {
@@ -680,13 +680,13 @@
     {
       "tier": "Mega",
       "deliverable": "IG Story Set",
-      "reach": 28898.0,
-      "views": 30795.0,
-      "eng": 91.0,
-      "reach_pctfol": 0.021829,
-      "views_pctfol": 0.024445,
-      "eng_pctfol": 7.666666666666667e-05,
-      "n": 449,
+      "reach": 27859.0,
+      "views": 30220.0,
+      "eng": 93.0,
+      "reach_pctfol": 0.020234545454545453,
+      "views_pctfol": 0.021715714285714286,
+      "eng_pctfol": 7.1e-05,
+      "n": 461,
       "confidence": "good"
     },
     {
@@ -704,13 +704,13 @@
     {
       "tier": "Mega",
       "deliverable": "TikTok",
-      "reach": 79722.0,
+      "reach": 78400.0,
       "views": 98700.0,
-      "eng": 4217.0,
-      "reach_pctfol": 0.0444468085106383,
+      "eng": 4039.0,
+      "reach_pctfol": 0.04441666666666667,
       "views_pctfol": 0.05481266666666667,
       "eng_pctfol": 0.002238,
-      "n": 243,
+      "n": 254,
       "confidence": "good"
     },
     {
@@ -951,10 +951,10 @@
     "_note": "INTERIM bulk-discount SHAPE calibrated from real data via the clean-room bridge. Normalized to 1.0 at a single deliverable so optimizer per-slot costs == rate card (P0 reproduction). Corrects naive bundle-summing (135%->50% reconciliation). Residual gap to the 37% floor is the negotiation level (rate card is a planning midpoint ABOVE median accepted comp = the workbook's 'Savings') plus continuous-follower effects; both resolved by the live re-fit.",
     "multiplier_form": "m(n)= n_deliverables ^ exponent, applied to base content only (add-ons stay additive)",
     "coef": 1.0,
-    "exponent": -0.4686,
+    "exponent": -0.4875,
     "validation_normalized": {
-      "median_pct_err": 0.391,
-      "within_50pct": 0.608
+      "median_pct_err": 0.402,
+      "within_50pct": 0.611
     }
   },
   "syndication": {
@@ -964,156 +964,156 @@
     "within_50pct": 0.56,
     "fit_basis": "re-anchored rates + bulk (consistent with published card)",
     "syndicated_reconciliation": {
-      "n": 814,
-      "median_pct_err": 0.391,
-      "within_50pct": 0.602
+      "n": 816,
+      "median_pct_err": 0.405,
+      "within_50pct": 0.608
     }
   },
   "vertical_index": {
     "_note": "Per-vertical performance index vs global median on %-of-followers (size-normalized). Multiply a slot's projected outcome by the index; None falls back to 1.0. From real posts via clean-room bridge.",
     "global_median_pctfol": {
-      "reach": 0.038372781065088755,
-      "views": 0.048327137546468404,
-      "eng": 0.0005576753742295275
+      "reach": 0.03936758893280633,
+      "views": 0.05,
+      "eng": 0.0005902777777777778
     },
     "index": {
       "Comedy & Entertainment": {
-        "reach": 0.831,
-        "views": 0.827,
-        "eng_rate": 0.945,
-        "n": 256,
+        "reach": 0.792,
+        "views": 0.779,
+        "eng_rate": 0.823,
+        "n": 265,
         "confidence": "good"
       },
       "Lifestyle": {
-        "reach": 1.157,
-        "views": 1.133,
-        "eng_rate": 1.035,
-        "n": 616,
+        "reach": 1.13,
+        "views": 1.096,
+        "eng_rate": 0.978,
+        "n": 652,
         "confidence": "good"
       },
       "Family & Parenting": {
-        "reach": 1.019,
-        "views": 1.039,
-        "eng_rate": 1.419,
-        "n": 184,
+        "reach": 1.129,
+        "views": 1.119,
+        "eng_rate": 1.341,
+        "n": 189,
         "confidence": "good"
       },
       "Food": {
-        "reach": 0.661,
-        "views": 0.636,
-        "eng_rate": 0.654,
-        "n": 737,
+        "reach": 0.644,
+        "views": 0.629,
+        "eng_rate": 0.681,
+        "n": 774,
         "confidence": "good"
       },
       "Beauty & Grooming": {
-        "reach": 0.994,
-        "views": 1.175,
-        "eng_rate": 1.072,
+        "reach": 0.969,
+        "views": 1.136,
+        "eng_rate": 1.012,
         "n": 161,
         "confidence": "good"
       },
       "Health & Fitness": {
-        "reach": 0.748,
-        "views": 0.728,
-        "eng_rate": 1.18,
+        "reach": 0.729,
+        "views": 0.704,
+        "eng_rate": 1.115,
         "n": 142,
         "confidence": "good"
       },
       "Arts & Music": {
-        "reach": 0.281,
-        "views": 0.468,
-        "eng_rate": 0.466,
+        "reach": 0.274,
+        "views": 0.452,
+        "eng_rate": 0.44,
         "n": 44,
         "confidence": "moderate"
       },
       "Other / Niche": {
-        "reach": 1.03,
-        "views": 1.068,
-        "eng_rate": 0.725,
-        "n": 1115,
+        "reach": 1.111,
+        "views": 1.133,
+        "eng_rate": 0.854,
+        "n": 1197,
         "confidence": "good"
       },
       "Business & Career": {
-        "reach": 0.914,
-        "views": 1.151,
-        "eng_rate": 2.374,
+        "reach": 0.891,
+        "views": 1.112,
+        "eng_rate": 2.243,
         "n": 42,
         "confidence": "moderate"
       },
       "Fashion & Style": {
-        "reach": 1.191,
-        "views": 1.527,
-        "eng_rate": 0.794,
+        "reach": 1.16,
+        "views": 1.476,
+        "eng_rate": 0.75,
         "n": 72,
         "confidence": "good"
       },
       "Home & DIY": {
-        "reach": 0.874,
-        "views": 0.759,
-        "eng_rate": 0.478,
+        "reach": 0.852,
+        "views": 0.734,
+        "eng_rate": 0.451,
         "n": 39,
         "confidence": "moderate"
       },
       "It Girl": {
-        "reach": 1.348,
-        "views": 1.21,
-        "eng_rate": 1.414,
+        "reach": 1.314,
+        "views": 1.17,
+        "eng_rate": 1.336,
         "n": 1015,
         "confidence": "good"
       },
       "NON-VERTICAL (route out)": {
-        "reach": 1.04,
-        "views": 1.047,
-        "eng_rate": 0.982,
+        "reach": 1.014,
+        "views": 1.012,
+        "eng_rate": 0.927,
         "n": 42,
         "confidence": "moderate"
       },
       "Trendsetter": {
-        "reach": 0.957,
-        "views": 0.874,
-        "eng_rate": 1.123,
+        "reach": 0.933,
+        "views": 0.845,
+        "eng_rate": 1.061,
         "n": 86,
         "confidence": "good"
       },
       "Duo": {
-        "reach": 4.796,
-        "views": 3.836,
-        "eng_rate": 0.442,
+        "reach": 4.675,
+        "views": 3.707,
+        "eng_rate": 0.417,
         "n": 10,
         "confidence": "low"
       },
       "Clean Girl": {
-        "reach": 0.807,
-        "views": 0.834,
-        "eng_rate": 0.684,
+        "reach": 0.786,
+        "views": 0.806,
+        "eng_rate": 0.646,
         "n": 10,
         "confidence": "low"
       },
       "Beverage": {
-        "reach": 0.709,
-        "views": 0.717,
-        "eng_rate": 0.543,
+        "reach": 0.691,
+        "views": 0.693,
+        "eng_rate": 0.513,
         "n": 61,
         "confidence": "good"
       },
       "Gaming": {
-        "reach": 1.77,
-        "views": 2.103,
-        "eng_rate": 5.572,
+        "reach": 1.725,
+        "views": 2.032,
+        "eng_rate": 5.265,
         "n": 8,
         "confidence": "low"
       },
       "Film, TV & Pop Culture": {
-        "reach": 1.251,
-        "views": 1.207,
-        "eng_rate": 0.608,
+        "reach": 1.219,
+        "views": 1.167,
+        "eng_rate": 0.574,
         "n": 10,
         "confidence": "low"
       },
       "Aging": {
-        "reach": 0.096,
-        "views": 0.081,
-        "eng_rate": 0.286,
+        "reach": 0.093,
+        "views": 0.078,
+        "eng_rate": 0.27,
         "n": 8,
         "confidence": "low"
       }
@@ -1137,16 +1137,16 @@
     }
   },
   "_refit_report": {
-    "date": "2026-06-12",
+    "date": "2026-06-13",
     "cost_reconciliation": {
-      "n": 1377,
-      "median_pct_err": 0.391,
-      "within_50pct": 0.608
+      "n": 1372,
+      "median_pct_err": 0.402,
+      "within_50pct": 0.611
     },
     "syndicated_reconciliation": {
-      "n": 814,
-      "median_pct_err": 0.391,
-      "within_50pct": 0.602
+      "n": 816,
+      "median_pct_err": 0.405,
+      "within_50pct": 0.608
     },
     "syndication_alpha": 1.0,
     "creator_ad_reconciliation": {
@@ -1165,11 +1165,21 @@
       "Instagram Static",
       "YouTube"
     ],
-    "perf_rows_used": 6707,
+    "perf_rows_used": 6899,
     "recency_halflife_months": 12,
     "anchor_percentile": 50,
     "macro_label_alias": "Low Macro",
-    "macro_label_rows": 73
+    "macro_label_rows": 53,
+    "premium_split_n": {
+      "VIP": 1,
+      "Mega": 27
+    },
+    "anchor_capped": [],
+    "talent_premium_steps": {
+      "standard": 1.0,
+      "premium": 2.5,
+      "marquee": 4.3
+    }
   },
   "recency": {
     "enabled": true,
@@ -1179,15 +1189,16 @@
     "anchor_percentile": 50,
     "recency_weighted": true,
     "per_tier_factor_vs_prior": {
-      "Nano": 1.037,
-      "Micro": 1.011,
-      "Mid Tier": 1.025,
-      "Low Macro": 0.981,
-      "High Macro": 1.015,
-      "Mega": 1.039,
-      "VIP": 2.505
+      "Nano": 1.03,
+      "Micro": 1.064,
+      "Mid Tier": 1.028,
+      "Low Macro": 0.954,
+      "High Macro": 1.013,
+      "Mega": 1.033,
+      "VIP": 1.245
     },
-    "_note": "Rate card re-derived to this percentile of accepted comp (recency-weighted). Normal stance = this anchor; aggressive/conservative shift it via the stance multipliers."
+    "anchor_capped": [],
+    "_note": "Rate card re-derived to this percentile of accepted comp (recency-weighted). Normal stance = this anchor; aggressive/conservative shift it via the stance multipliers. Thin tiers capped at +/-25%/refit; VIP/Mega talent-premium deals split out of the anchor."
   },
   "_assumptions": {
     "story_set_rate": "IG Story Set rate (~82% of an IG Reel) is an INHERITED prior ratio, NOT validated against accepted comp \u2014 there are no story-only deals to identify it. Per-view, stories deliver ~15% of a reel. Review before relying on story-heavy plans.",
@@ -1198,13 +1209,13 @@
   "addon_rates": {
     "Creator Ad": {
       "by_tier": {
-        "Nano": 1442,
+        "Nano": 1444,
         "Micro": 2500,
         "Mid Tier": 7000,
-        "Low Macro": 12123,
-        "High Macro": 12587,
-        "Mega": 18636,
-        "VIP": 54771
+        "Low Macro": 11244,
+        "High Macro": 12397,
+        "Mega": 18716,
+        "VIP": 26465
       },
       "fit_n": {
         "Nano": 5,
@@ -1215,12 +1226,12 @@
         "Mega": 1,
         "VIP": 0
       },
-      "ratio_fallback_vs_ig_reel": 0.828,
+      "ratio_fallback_vs_ig_reel": 0.805,
       "reconciliation": {
         "n": 52,
         "median_pct_err": 0.417
       },
-      "_note": "Per-tier, fit from standalone Creator-Ad deals (n>=6) else 0.828x the tier's IG Reel rate. Priced as an additive line item; tag-on or standalone. Creator ads carry no organic reach/views."
+      "_note": "Per-tier, fit from standalone Creator-Ad deals (n>=6) else 0.805x the tier's IG Reel rate. Priced as an additive line item; tag-on or standalone. Creator ads carry no organic reach/views."
     },
     "Brand Asset": {
       "flat_rate": 4000,
@@ -1253,7 +1264,29 @@
       "Food Review": 0.6
     },
     "_held_raw_tiers": {
-      "VIP": "held at prior published raw rates 2026-06-12: tonight's fit spiked VIP per-deliverable +150% off a few high-fee/low-deliverable (rights/talent) deals on the thin (n=41) tier; median VIP deal is still $45k. Revisit when VIP data is cleaned or the anchor is robustified."
+      "VIP": "held at prior published raw rates 2026-06-12: tonight's fit spiked VIP per-deliverable +150% off a few high-fee/low-deliverable (rights/talent) deals on the thin (n=41) tier; median VIP deal is still $45k. Revisit when VIP data is cleaned or the anchor is robustified. SUPERSEDED by the talent-premium guardrail (v3): the anchor now splits these deals out + caps thin-tier movement, so a refit no longer re-spikes VIP. Safe to retire after one verified refit."
     }
+  },
+  "talent_premium": {
+    "applies_to_tiers": [
+      "VIP",
+      "Mega"
+    ],
+    "default_step": "standard",
+    "steps": {
+      "standard": 1.0,
+      "premium": 2.5,
+      "marquee": 4.3
+    },
+    "manual_override_max": 9.9,
+    "derived": {
+      "premium_n": 28,
+      "by_tier_standard_median_ppd": {
+        "VIP": 30000,
+        "Mega": 11667
+      },
+      "confidence": "low (thin tail)"
+    },
+    "_note": "Planner-applied premium for VIP/Mega talent/rights deals (fee NOT proportional to deliverables). Steps from each tier's premium population (deals > 1.75x the tier standard-median $/deliverable); extreme tail sets manual_override_max only."
   }
 }
