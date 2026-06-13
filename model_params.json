@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "source": "live re-fit from scrubbed mirrors (sum-across-platforms tier classifier; honest per-tier n_deals)",
+    "source": "live re-fit from scrubbed mirrors (sum classifier; honest n_deals; cost MC sigma derived from residuals)",
     "version": "refit-2026-06-13-rw12-P50",
     "projection_year": 2025,
     "accuracy_floor_median_pct": {
@@ -10,7 +10,7 @@
       "engagement": 0.64
     },
     "montecarlo_log_sigma": {
-      "cost": 0.45,
+      "cost": 0.69,
       "reach": 1.253,
       "views": 1.275,
       "engagement": 1.363
