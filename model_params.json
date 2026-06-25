@@ -1,7 +1,7 @@
 {
   "_meta": {
     "source": "live re-fit from scrubbed mirrors",
-    "version": "refit-2026-06-25-rw12-P50+ytfix",
+    "version": "refit-2026-06-25-rw12-P50+ytfix+ytv",
     "projection_year": 2025,
     "accuracy_floor_median_pct": {
       "cost": 0.37,
@@ -115,7 +115,8 @@
         "TikTok": 825.2,
         "YT Short": 856.7,
         "Creator Ad": 800,
-        "Brand Asset": 4000
+        "Brand Asset": 4000,
+        "YT Video": 854
       },
       "n_deals": 11,
       "confidence": "Low (thin)"
@@ -127,7 +128,8 @@
         "TikTok": 1805.3,
         "YT Short": 1873.8,
         "Creator Ad": 1750,
-        "Brand Asset": 4000
+        "Brand Asset": 4000,
+        "YT Video": 1868
       },
       "n_deals": 255,
       "confidence": "Good"
@@ -139,7 +141,8 @@
         "TikTok": 5311.0,
         "YT Short": 5512.5,
         "Creator Ad": 5000,
-        "Brand Asset": 4000
+        "Brand Asset": 4000,
+        "YT Video": 5496
       },
       "n_deals": 587,
       "confidence": "Good"
@@ -151,7 +154,8 @@
         "TikTok": 8035.6,
         "YT Short": 8340.7,
         "Creator Ad": 7792,
-        "Brand Asset": 4000
+        "Brand Asset": 4000,
+        "YT Video": 8316
       },
       "n_deals": 197,
       "confidence": "Good"
@@ -163,7 +167,8 @@
         "TikTok": 9767.3,
         "YT Short": 10137.9,
         "Creator Ad": 9472,
-        "Brand Asset": 4000
+        "Brand Asset": 4000,
+        "YT Video": 10107
       },
       "n_deals": 89,
       "confidence": "Good"
@@ -175,7 +180,8 @@
         "TikTok": 14056.4,
         "YT Short": 14589.7,
         "Creator Ad": 13632,
-        "Brand Asset": 4000
+        "Brand Asset": 4000,
+        "YT Video": 14546
       },
       "n_deals": 322,
       "confidence": "Good"
@@ -187,7 +193,8 @@
         "TikTok": 17296.0,
         "YT Short": 17952.3,
         "Creator Ad": 16773,
-        "Brand Asset": 4000
+        "Brand Asset": 4000,
+        "YT Video": 17898
       },
       "n_deals": 47,
       "confidence": "Low (thin)"
@@ -313,16 +320,16 @@
     {
       "tier": "Nano",
       "deliverable": "YT Short",
-      "reach": 257,
+      "reach": 318,
       "views": 318.0,
       "eng": 2.0,
-      "reach_pctfol": 0.03905462863528816,
+      "reach_pctfol": 0.048401826484018265,
       "views_pctfol": 0.048401826484018265,
       "eng_pctfol": 0.00030441400304414006,
       "n": 4,
       "confidence": "low",
-      "reach_source": "proxy",
-      "reach_proxy_ratio": 0.807
+      "reach_source": "yt_unique_viewers",
+      "reach_proxy_ratio": 1.0
     },
     {
       "tier": "Micro",
@@ -399,21 +406,21 @@
     {
       "tier": "Micro",
       "deliverable": "YT Short",
-      "reach": 4122,
+      "reach": 5054,
       "views": 5054.0,
       "eng": 300.0,
-      "reach_pctfol": 0.01923432654620959,
+      "reach_pctfol": 0.023582295988934993,
       "views_pctfol": 0.023582295988934993,
       "eng_pctfol": 0.005128205128205128,
       "n": 21,
       "confidence": "moderate",
-      "reach_source": "proxy",
-      "reach_proxy_ratio": 0.816
+      "reach_source": "yt_unique_viewers",
+      "reach_proxy_ratio": 1.0
     },
     {
       "tier": "Micro",
       "deliverable": "YT Video",
-      "reach": 1736,
+      "reach": 1860,
       "views": 2128.0,
       "eng": 142.0,
       "reach_pctfol": 0.0,
@@ -421,8 +428,8 @@
       "eng_pctfol": 0.0,
       "n": 8,
       "confidence": "low",
-      "reach_source": "proxy",
-      "reach_proxy_ratio": 0.816
+      "reach_source": "yt_unique_viewers",
+      "reach_proxy_ratio": 0.874
     },
     {
       "tier": "Mid Tier",
@@ -499,21 +506,21 @@
     {
       "tier": "Mid Tier",
       "deliverable": "YT Short",
-      "reach": 1212,
+      "reach": 1623,
       "views": 1623.0,
       "eng": 39.0,
-      "reach_pctfol": 0.0043219950339725395,
+      "reach_pctfol": 0.005785541195476575,
       "views_pctfol": 0.005785541195476575,
       "eng_pctfol": 0.0001474125223058422,
       "n": 78,
       "confidence": "good",
-      "reach_source": "proxy",
-      "reach_proxy_ratio": 0.747
+      "reach_source": "yt_unique_viewers",
+      "reach_proxy_ratio": 1.0
     },
     {
       "tier": "Mid Tier",
       "deliverable": "YT Video",
-      "reach": 10276,
+      "reach": 7637,
       "views": 13756.0,
       "eng": 899.0,
       "reach_pctfol": 0.0,
@@ -521,8 +528,8 @@
       "eng_pctfol": 0.0,
       "n": 6,
       "confidence": "low",
-      "reach_source": "proxy",
-      "reach_proxy_ratio": 0.747
+      "reach_source": "yt_unique_viewers",
+      "reach_proxy_ratio": 0.555
     },
     {
       "tier": "Low Macro",
@@ -587,21 +594,21 @@
     {
       "tier": "Low Macro",
       "deliverable": "YT Short",
-      "reach": 4864,
+      "reach": 4166,
       "views": 6000.0,
       "eng": 382.0,
-      "reach_pctfol": 0.006787112224234703,
+      "reach_pctfol": 0.005812238389475782,
       "views_pctfol": 0.008371536774965119,
       "eng_pctfol": 0.0006039316120993978,
       "n": 34,
       "confidence": "moderate",
-      "reach_source": "proxy",
-      "reach_proxy_ratio": 0.811
+      "reach_source": "yt_unique_viewers",
+      "reach_proxy_ratio": 0.694
     },
     {
       "tier": "Low Macro",
       "deliverable": "YT Video",
-      "reach": 30696,
+      "reach": 24986,
       "views": 37862.0,
       "eng": 2709.0,
       "reach_pctfol": 0.0,
@@ -609,8 +616,8 @@
       "eng_pctfol": 0.0,
       "n": 4,
       "confidence": "low",
-      "reach_source": "proxy",
-      "reach_proxy_ratio": 0.811
+      "reach_source": "yt_unique_viewers",
+      "reach_proxy_ratio": 0.66
     },
     {
       "tier": "High Macro",
@@ -651,16 +658,16 @@
     {
       "tier": "High Macro",
       "deliverable": "YT Short",
-      "reach": 8635,
+      "reach": 6443,
       "views": 12727.922061357855,
       "eng": 3753.0,
-      "reach_pctfol": 0.009686292206307222,
+      "reach_pctfol": 0.00722720818153455,
       "views_pctfol": 0.01427814299278777,
       "eng_pctfol": 0.0046105651105651105,
       "n": 24,
       "confidence": "moderate",
-      "reach_source": "proxy",
-      "reach_proxy_ratio": 0.678
+      "reach_source": "yt_unique_viewers",
+      "reach_proxy_ratio": 0.506
     },
     {
       "tier": "Mega",
@@ -725,21 +732,21 @@
     {
       "tier": "Mega",
       "deliverable": "YT Short",
-      "reach": 22939,
+      "reach": 27000,
       "views": 27000.0,
       "eng": 1348.0,
-      "reach_pctfol": 0.00884131702548697,
+      "reach_pctfol": 0.01040650406504065,
       "views_pctfol": 0.01040650406504065,
       "eng_pctfol": 0.0006820254087897392,
       "n": 57,
       "confidence": "moderate",
-      "reach_source": "proxy",
-      "reach_proxy_ratio": 0.85
+      "reach_source": "yt_unique_viewers",
+      "reach_proxy_ratio": 1.0
     },
     {
       "tier": "Mega",
       "deliverable": "YT Video",
-      "reach": 83434,
+      "reach": 79124,
       "views": 98204.0,
       "eng": 6997.0,
       "reach_pctfol": 0.0,
@@ -747,8 +754,8 @@
       "eng_pctfol": 0.0,
       "n": 5,
       "confidence": "low",
-      "reach_source": "proxy",
-      "reach_proxy_ratio": 0.85
+      "reach_source": "yt_unique_viewers",
+      "reach_proxy_ratio": 0.806
     },
     {
       "tier": "VIP",
@@ -789,21 +796,21 @@
     {
       "tier": "VIP",
       "deliverable": "YT Short",
-      "reach": 10835,
+      "reach": 14896,
       "views": 14896.0,
       "eng": 1597.0,
-      "reach_pctfol": 0.0020724030348445626,
+      "reach_pctfol": 0.0028491096532333644,
       "views_pctfol": 0.0028491096532333644,
       "eng_pctfol": 0.00018868131868131867,
       "n": 18,
       "confidence": "low",
-      "reach_source": "proxy",
-      "reach_proxy_ratio": 0.727
+      "reach_source": "yt_unique_viewers",
+      "reach_proxy_ratio": 1.0
     },
     {
       "tier": "VIP",
       "deliverable": "YT Video",
-      "reach": 140618,
+      "reach": 145200,
       "views": 193320.0,
       "eng": 22374.0,
       "reach_pctfol": 0.0,
@@ -811,8 +818,8 @@
       "eng_pctfol": 0.0,
       "n": 1,
       "confidence": "low",
-      "reach_source": "proxy",
-      "reach_proxy_ratio": 0.727
+      "reach_source": "yt_unique_viewers",
+      "reach_proxy_ratio": 0.751
     }
   ],
   "efficiency_per_1k": [
@@ -1217,23 +1224,70 @@
     ],
     "youtube_reach_proxy": {
       "enabled": true,
-      "global_ratio": 0.804,
+      "yt_unique_viewers_global_ratio": 1.0,
+      "xplat_fallback_ratio": 0.804,
       "cells_filled": 12,
-      "by_cell_ratio": {
-        "Nano/YT Short": 0.807,
-        "Micro/YT Short": 0.816,
-        "Micro/YT Video": 0.816,
-        "Mid Tier/YT Short": 0.747,
-        "Mid Tier/YT Video": 0.747,
-        "Low Macro/YT Short": 0.811,
-        "Low Macro/YT Video": 0.811,
-        "High Macro/YT Short": 0.678,
-        "Mega/YT Short": 0.85,
-        "Mega/YT Video": 0.85,
-        "VIP/YT Short": 0.727,
-        "VIP/YT Video": 0.727
+      "by_source": {
+        "yt_unique_viewers": 12,
+        "proxy": 0
       },
-      "_note": "YouTube has no native reach; reach = views x reach:views ratio fit from reach-reporting deliverables (per-tier, else global median). reach_source='proxy' on these cells."
+      "by_cell": {
+        "Nano/YT Short": {
+          "ratio": 1.0,
+          "src": "yt_unique_viewers"
+        },
+        "Micro/YT Short": {
+          "ratio": 1.0,
+          "src": "yt_unique_viewers"
+        },
+        "Micro/YT Video": {
+          "ratio": 0.874,
+          "src": "yt_unique_viewers"
+        },
+        "Mid Tier/YT Short": {
+          "ratio": 1.0,
+          "src": "yt_unique_viewers"
+        },
+        "Mid Tier/YT Video": {
+          "ratio": 0.555,
+          "src": "yt_unique_viewers"
+        },
+        "Low Macro/YT Short": {
+          "ratio": 0.694,
+          "src": "yt_unique_viewers"
+        },
+        "Low Macro/YT Video": {
+          "ratio": 0.66,
+          "src": "yt_unique_viewers"
+        },
+        "High Macro/YT Short": {
+          "ratio": 0.506,
+          "src": "yt_unique_viewers"
+        },
+        "Mega/YT Short": {
+          "ratio": 1.0,
+          "src": "yt_unique_viewers"
+        },
+        "Mega/YT Video": {
+          "ratio": 0.806,
+          "src": "yt_unique_viewers"
+        },
+        "VIP/YT Short": {
+          "ratio": 1.0,
+          "src": "yt_unique_viewers"
+        },
+        "VIP/YT Video": {
+          "ratio": 0.751,
+          "src": "yt_unique_viewers"
+        }
+      },
+      "_note": "YT reach = views x ratio. Preferred ratio = real unique-viewers:views from 'Unique Viewers (New)' (reach_source='yt_unique_viewers'); cross-platform reach:views fallback when no UV data (reach_source='proxy')."
+    },
+    "ytvideo_rate": {
+      "multiplier_vs_yt_short": 0.997,
+      "fit_n": 11,
+      "confidence": "low (thin)",
+      "_note": "Long-form YT Video priced as multiplier x the tier YT Short rate (single global multiplier; per-tier not fittable at this n). Trimmed of talent/rights deals, which the talent_premium lever carries. The off-model '3x YT Short' guess is NOT supported \u2014 content-driven long-form prices ~1x YT Short. Collect standalone long-form comp to firm this."
     },
     "holdout": {
       "cutoff_year": 2026,
@@ -1445,5 +1499,11 @@
     "enabled": true,
     "ratio": null,
     "_note": "YouTube reports no reach; fill YT Short/YT Video reach = views x (per-tier reach:views ratio from reach-reporting deliverables, else global median). Set 'ratio' to force a fixed factor, or enabled:false to leave YT reach at 0 (note 3.1)."
+  },
+  "ytvideo_rate": {
+    "multiplier_vs_yt_short": 0.997,
+    "fit_n": 11,
+    "confidence": "low (thin)",
+    "_note": "Long-form YT Video priced as multiplier x the tier YT Short rate (single global multiplier; per-tier not fittable at this n). Trimmed of talent/rights deals, which the talent_premium lever carries. The off-model '3x YT Short' guess is NOT supported \u2014 content-driven long-form prices ~1x YT Short. Collect standalone long-form comp to firm this."
   }
 }
