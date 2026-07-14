@@ -1499,5 +1499,31 @@
       "Post Date"
     ],
     "_note": "Story tab is per-frame; collapse to per-set (views=sum, reach=max, eng=sum) so the yield unit matches the cost 'Story Set' unit."
+  },
+  "planning_anchor": {
+    "_note": "Planning (budget) markup on the central estimate; turns quotes into budget numbers with negotiation headroom. cost_rate_card stays the central estimate for margin/reconciliation (pass planning=False there).",
+    "version": "planning-2026-07-14-p7pct",
+    "default_on": true,
+    "target_savings": 0.07,
+    "basis": "recency-weighted (12mo halflife) accepted actual \u00f7 standard quote, 2023\u20132026",
+    "method": "per-tier markup = wmean(actual/quote)/(1-target), shrunk toward pooled (k=25), clamped [0.95,2.2]",
+    "markup_by_tier": {
+      "Nano": 1.912,
+      "Micro": 1.641,
+      "Mid Tier": 1.148,
+      "Low Macro": 1.431,
+      "High Macro": 1.196,
+      "Mega": 1.166,
+      "VIP": 1.491
+    },
+    "expected": {
+      "blended_savings": 0.063,
+      "blended_win_rate": 0.68
+    },
+    "caveats": [
+      "accepted-only (censored) \u2192 realized win-rate slightly below expected; capture declined offers",
+      "Nano thin (n=11) \u2192 price manually",
+      "VIP premium/marquee tail via talent_premium lever"
+    ]
   }
 }
