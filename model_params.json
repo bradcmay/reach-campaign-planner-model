@@ -1,7 +1,7 @@
 {
   "_meta": {
     "source": "live re-fit from scrubbed mirrors",
-    "version": "refit-2026-08-25-rw12-P50+ytfix+ytv+eb+storyset",
+    "version": "refit-2026-08-31-rw12-P50+ytfix+ytv+eb+storyset",
     "projection_year": 2025,
     "accuracy_floor_median_pct": {
       "cost": 0.37,
@@ -10,8 +10,8 @@
       "engagement": 0.64
     },
     "montecarlo_log_sigma": {
-      "cost": 0.695,
-      "reach": 1.275,
+      "cost": 0.694,
+      "reach": 1.274,
       "views": 1.413,
       "engagement": 1.443
     },
@@ -39,16 +39,16 @@
       },
       "TikTok": {
         "reach": 1.485,
-        "views": 1.589,
+        "views": 1.59,
         "engagement": 1.529
       },
       "YT Short": {
-        "reach": 1.275,
+        "reach": 1.274,
         "views": 2.695,
         "engagement": 2.552
       },
       "YT Video": {
-        "reach": 1.275,
+        "reach": 1.274,
         "views": 1.413,
         "engagement": 1.443
       }
@@ -114,87 +114,87 @@
         "IG Story Set": 888.2,
         "TikTok": 814.0,
         "YT Short": 845.0,
-        "Creator Ad": 838,
+        "Creator Ad": 836,
         "Brand Asset": 4000,
-        "YT Video": 738
+        "YT Video": 736
       },
       "n_deals": 11,
       "confidence": "Low (thin)"
     },
     "Micro": {
       "deliverable_rate": {
-        "IG Reel": 2325.5,
-        "IG Story Set": 1906.8,
-        "TikTok": 1748.1,
-        "YT Short": 1814.4,
+        "IG Reel": 2332.4,
+        "IG Story Set": 1912.5,
+        "TikTok": 1753.3,
+        "YT Short": 1819.8,
         "Creator Ad": 1800,
         "Brand Asset": 4000,
-        "YT Video": 1584
+        "YT Video": 1585
       },
       "n_deals": 259,
       "confidence": "Good"
     },
     "Mid Tier": {
       "deliverable_rate": {
-        "IG Reel": 7519.8,
-        "IG Story Set": 6167.5,
-        "TikTok": 5652.8,
-        "YT Short": 5867.2,
+        "IG Reel": 7533.8,
+        "IG Story Set": 6179.0,
+        "TikTok": 5663.3,
+        "YT Short": 5878.2,
         "Creator Ad": 5000,
         "Brand Asset": 4000,
-        "YT Video": 5122
+        "YT Video": 5120
       },
       "n_deals": 594,
       "confidence": "Good"
     },
     "Low Macro": {
       "deliverable_rate": {
-        "IG Reel": 11386.2,
-        "IG Story Set": 9338.0,
-        "TikTok": 8559.5,
-        "YT Short": 8884.4,
-        "Creator Ad": 8813,
+        "IG Reel": 11406.7,
+        "IG Story Set": 9354.8,
+        "TikTok": 8574.9,
+        "YT Short": 8900.4,
+        "Creator Ad": 8806,
         "Brand Asset": 4000,
-        "YT Video": 7756
+        "YT Video": 7752
       },
       "n_deals": 200,
       "confidence": "Good"
     },
     "High Macro": {
       "deliverable_rate": {
-        "IG Reel": 13686.3,
-        "IG Story Set": 11224.6,
-        "TikTok": 10288.3,
-        "YT Short": 10678.7,
-        "Creator Ad": 10593,
+        "IG Reel": 13698.9,
+        "IG Story Set": 11234.9,
+        "TikTok": 10297.8,
+        "YT Short": 10688.6,
+        "Creator Ad": 10576,
         "Brand Asset": 4000,
-        "YT Video": 9323
+        "YT Video": 9310
       },
       "n_deals": 90,
       "confidence": "Good"
     },
     "Mega": {
       "deliverable_rate": {
-        "IG Reel": 19958.5,
-        "IG Story Set": 16367.9,
-        "TikTok": 15002.9,
-        "YT Short": 15572.1,
-        "Creator Ad": 15448,
+        "IG Reel": 20371.9,
+        "IG Story Set": 16706.9,
+        "TikTok": 15313.7,
+        "YT Short": 15894.7,
+        "Creator Ad": 15727,
         "Brand Asset": 4000,
-        "YT Video": 13594
+        "YT Video": 13844
       },
-      "n_deals": 333,
+      "n_deals": 334,
       "confidence": "Good"
     },
     "VIP": {
       "deliverable_rate": {
-        "IG Reel": 21555.8,
-        "IG Story Set": 17678.4,
-        "TikTok": 16203.8,
-        "YT Short": 16818.7,
-        "Creator Ad": 16684,
+        "IG Reel": 21603.5,
+        "IG Story Set": 17717.4,
+        "TikTok": 16239.7,
+        "YT Short": 16855.9,
+        "Creator Ad": 16678,
         "Brand Asset": 4000,
-        "YT Video": 14683
+        "YT Video": 14681
       },
       "n_deals": 47,
       "confidence": "Low (thin)"
@@ -975,10 +975,10 @@
     "_note": "INTERIM bulk-discount SHAPE calibrated from real data via the clean-room bridge. Normalized to 1.0 at a single deliverable so optimizer per-slot costs == rate card (P0 reproduction). Corrects naive bundle-summing (135%->50% reconciliation). Residual gap to the 37% floor is the negotiation level (rate card is a planning midpoint ABOVE median accepted comp = the workbook's 'Savings') plus continuous-follower effects; both resolved by the live re-fit.",
     "multiplier_form": "m(n)= n_deliverables ^ exponent, applied to base content only (add-ons stay additive)",
     "coef": 1.0,
-    "exponent": -0.6101,
+    "exponent": -0.6118,
     "validation_normalized": {
       "median_pct_err": 0.356,
-      "within_50pct": 0.633
+      "within_50pct": 0.638
     }
   },
   "syndication": {
@@ -988,9 +988,9 @@
     "within_50pct": 0.56,
     "fit_basis": "re-anchored rates + bulk (consistent with published card)",
     "syndicated_reconciliation": {
-      "n": 913,
-      "median_pct_err": 0.352,
-      "within_50pct": 0.65
+      "n": 914,
+      "median_pct_err": 0.348,
+      "within_50pct": 0.654
     }
   },
   "vertical_index": {
@@ -1161,16 +1161,16 @@
     }
   },
   "_refit_report": {
-    "date": "2026-08-25",
+    "date": "2026-08-31",
     "cost_reconciliation": {
-      "n": 1534,
+      "n": 1535,
       "median_pct_err": 0.356,
-      "within_50pct": 0.633
+      "within_50pct": 0.638
     },
     "syndicated_reconciliation": {
-      "n": 913,
-      "median_pct_err": 0.352,
-      "within_50pct": 0.65
+      "n": 914,
+      "median_pct_err": 0.348,
+      "within_50pct": 0.654
     },
     "syndication_alpha": 1.0,
     "creator_ad_reconciliation": {
@@ -1277,7 +1277,7 @@
       "_note": "YT reach = views x ratio. Preferred ratio = real unique-viewers:views from 'Unique Viewers (New)' (reach_source='yt_unique_viewers'); cross-platform reach:views fallback when no UV data (reach_source='proxy')."
     },
     "ytvideo_rate": {
-      "multiplier_vs_yt_short": 0.873,
+      "multiplier_vs_yt_short": 0.871,
       "fit_n": 11,
       "confidence": "low (thin)",
       "_note": "Long-form YT Video priced as multiplier x the tier YT Short rate (single global multiplier; per-tier not fittable at this n). Trimmed of talent/rights deals, which the talent_premium lever carries. The off-model '3x YT Short' guess is NOT supported \u2014 content-driven long-form prices ~1x YT Short. Collect standalone long-form comp to firm this."
@@ -1292,10 +1292,10 @@
     "holdout": {
       "cutoff_year": 2026,
       "n_train": 1322,
-      "n_test": 330,
+      "n_test": 331,
       "mdape": 0.338,
       "median_model_over_fee": 1.118,
-      "coverage_80": 0.809,
+      "coverage_80": 0.81,
       "_note": "Out-of-time: trained on years < cutoff, scored on cutoff year; content-based vs accepted comp."
     }
   },
@@ -1308,12 +1308,12 @@
     "recency_weighted": true,
     "per_tier_factor_vs_prior": {
       "Nano": 0.8,
-      "Micro": 1.008,
-      "Mid Tier": 1.075,
-      "Low Macro": 1.111,
-      "High Macro": 1.086,
-      "Mega": 1.062,
-      "VIP": 0.905
+      "Micro": 1.011,
+      "Mid Tier": 1.077,
+      "Low Macro": 1.113,
+      "High Macro": 1.087,
+      "Mega": 1.084,
+      "VIP": 0.907
     },
     "anchor_capped": [],
     "_note": "Rate card re-derived to this percentile of accepted comp (recency-weighted). Normal stance = this anchor; aggressive/conservative shift it via the stance multipliers. Thin tiers capped at +/-25%/refit; VIP/Mega talent-premium deals split out of the anchor."
@@ -1327,13 +1327,13 @@
   "addon_rates": {
     "Creator Ad": {
       "by_tier": {
-        "Nano": 838,
+        "Nano": 836,
         "Micro": 1800,
         "Mid Tier": 5000,
-        "Low Macro": 8813,
-        "High Macro": 10593,
-        "Mega": 15448,
-        "VIP": 16684
+        "Low Macro": 8806,
+        "High Macro": 10576,
+        "Mega": 15727,
+        "VIP": 16678
       },
       "fit_n": {
         "Nano": 4,
@@ -1344,12 +1344,12 @@
         "Mega": 1,
         "VIP": 0
       },
-      "ratio_fallback_vs_ig_reel": 0.774,
+      "ratio_fallback_vs_ig_reel": 0.772,
       "reconciliation": {
         "n": 52,
         "median_pct_err": 0.28
       },
-      "_note": "Per-tier, fit from standalone Creator-Ad deals (n>=6) else 0.774x the tier's IG Reel rate. Priced as an additive line item; tag-on or standalone. Creator ads carry no organic reach/views."
+      "_note": "Per-tier, fit from standalone Creator-Ad deals (n>=6) else 0.772x the tier's IG Reel rate. Priced as an additive line item; tag-on or standalone. Creator ads carry no organic reach/views."
     },
     "Brand Asset": {
       "flat_rate": 4000,
@@ -1357,8 +1357,8 @@
       "confidence": "low",
       "_note": "Flat rate (data too thin/noisy to tier-scale). Treat as approximate."
     },
-    "bundled_marginal_factor": 0.519,
-    "_bundled_note": "Add-ons riding WITH content cost ~0.52x their standalone rate (LS marginal, like syndication alpha; n=95). The engine applies this only when the quote has content; pure standalone add-on quotes pay the full rate. Corrects ~1.6x over-quoting of bundled add-on deals."
+    "bundled_marginal_factor": 0.495,
+    "_bundled_note": "Add-ons riding WITH content cost ~0.49x their standalone rate (LS marginal, like syndication alpha; n=95). The engine applies this only when the quote has content; pure standalone add-on quotes pay the full rate. Corrects ~1.6x over-quoting of bundled add-on deals."
   },
   "cost_calibration": {
     "_note": "Read-time business calibrations validated against 2023-2026 deal actuals (2026-06-11). Applied on read by the cost engine and the planner JS; cost_rate_card stays RAW fitted so weekly refits never compound. See the Reach modeling reconciliation report. Low Macro factor re-tuned to 0.78 after the macro-label fix folded recovered bare-Macro rows into Low Macro (raised its raw rate ~15%).",
@@ -1501,7 +1501,7 @@
     "_note": "YouTube reports no reach; fill YT Short/YT Video reach = views x (per-tier reach:views ratio from reach-reporting deliverables, else global median). Set 'ratio' to force a fixed factor, or enabled:false to leave YT reach at 0 (note 3.1)."
   },
   "ytvideo_rate": {
-    "multiplier_vs_yt_short": 0.873,
+    "multiplier_vs_yt_short": 0.871,
     "fit_n": 11,
     "confidence": "low (thin)",
     "_note": "Long-form YT Video priced as multiplier x the tier YT Short rate (single global multiplier; per-tier not fittable at this n). Trimmed of talent/rights deals, which the talent_premium lever carries. The off-model '3x YT Short' guess is NOT supported \u2014 content-driven long-form prices ~1x YT Short. Collect standalone long-form comp to firm this."
@@ -1515,19 +1515,19 @@
     "_note": "Story tab is per-frame; collapse to per-set (views=sum, reach=max, eng=sum) so the yield unit matches the cost 'Story Set' unit."
   },
   "planning_anchor": {
-    "version": "planning-2026-08-25-p7pct",
+    "version": "planning-2026-08-31-p7pct",
     "default_on": true,
     "target_savings": 0.07,
     "markup_by_tier": {
-      "Nano": 2.106,
-      "Micro": 1.456,
+      "Nano": 2.109,
+      "Micro": 1.455,
       "Mid Tier": 1.193,
-      "Low Macro": 1.204,
-      "High Macro": 1.238,
-      "Mega": 1.204,
-      "VIP": 1.925
+      "Low Macro": 1.203,
+      "High Macro": 1.237,
+      "Mega": 1.184,
+      "VIP": 1.923
     },
-    "basis": "recency-weighted accepted fee / reconciled central cost, refit population (n=1534)",
+    "basis": "recency-weighted accepted fee / reconciled central cost, refit population (n=1535)",
     "method": "per-tier markup = wmean(fee/pred)/(1-0.07), shrunk toward pooled (k=25), clamped [0.95, 2.2]",
     "_note": "Budget/quote markup on the CENTRAL estimate, applied read-time by the cost engine (planning=True / default_on). cost_rate_card stays the central estimate for margin/reconciliation. Fit on ACCEPTED deals (censored) so realized win-rate runs slightly under target; Nano thin -> price manually; VIP premium/marquee tail carried by talent_premium."
   }
